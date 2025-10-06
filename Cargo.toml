@@ -1,0 +1,10 @@
+[package]
+name = "task-local"
+version = "0.0.1"
+edition = "2024"
+
+[dependencies]
+pin-project-lite = "0.2"
+
+[dev-dependencies]
+futures = "0.3"
